@@ -1,0 +1,17 @@
+.menu {
+ display: flex;
+ justify-content: space-around;
+}
+.text {
+    display: flex;
+    gap: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 20%;
+}
+.tilte {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.button {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 100%;
+}
