@@ -1,0 +1,64 @@
+.divider{
+    display: block;
+    height: 2px;
+    background-color: orange;
+    width: 100px;
+    margin-left: auto;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-bottom: 30px;
+    
+}
+.big{
+    text-align: center;
+    padding: auto;
+}
+.container{
+    
+    gap: 100px;
+    display: flex;
+    justify-content: center;
+    
+}
+.container .box img {
+    margin: auto;
+    width: 230px;
+    
+}
+.smll{
+   margin-left: 30px;
+   font-weight: 300;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+.smll.link{
+    color: orange;
+}
+.thin{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(http://www.omnifood.net/resources/CSS/img/back-customers-min.jpg);
+}
+.samll{
+    color: white;
+    
+   
+}
+.tall{
+    text-align: center;
+    padding: auto;
+    color: white;
+}
+.container2{
+    display: flex;
+}
+.gg{
+    display: flex;
+    gap: 50px;
+    padding-left: 30px ;
+}
+.logo{
+    padding-left: 40px;
+}
+.container2{
+    font-size: 500%;
+}
