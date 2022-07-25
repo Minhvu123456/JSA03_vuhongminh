@@ -1,15 +1,11 @@
 body{
     font-family: 'Dosis', sans-serif;
 }
-header img{
-    height: auto;
-    width: auto;
-}
 .background{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://khuchieunghi.github.io/JSA03-khuchieunghi/public/background.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("https://khuchieunghi.github.io/JSA03-khuchieunghi/public/background.png");
     height: 100vh;
-    background-size: inherit;
-   
+    width: 100%;
     
 }
+
 
