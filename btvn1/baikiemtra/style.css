@@ -14,6 +14,7 @@ body{
     text-align: center;
     color: white;
     font-size: 150%;
+    margin-top: 100px;
 }
 .time{
     text-align: center;
@@ -35,8 +36,9 @@ body{
     border-radius: 99px;
     padding: 12px;
     height: 80px;
-    margin: 20px;
     font-size: 150%;
+    width: 400px;
+    
 }
 .button2{
     color: white;
@@ -44,9 +46,12 @@ body{
     border: 1px solid blue;
     border-radius: 99px;
     padding: 12px;
-    height: 60px;
-    margin: 20px;
+    height: 80px;
+    margin-left: auto;
     font-size: 150%;
+    width: 400px;
+    margin-right: auto;
+    margin-top: 20px;
 }
 .button3{
     color: white;
@@ -54,9 +59,11 @@ body{
     border: 1px solid red;
     border-radius: 99px;
     padding: 12px;
-    height: 60px;
-    margin: 20px;
+    height: 80px;
+    margin: auto;
     font-size: 150%;
+    width: 400px;
+    margin-top: 20px;
 }
 
 .grid{
@@ -78,4 +85,29 @@ input{
     margin: 0;
     
 }
-
+.boss{
+     position: fixed;
+     padding-left: 600px;
+     color: #ffffff;
+     font-size: 120%;
+     
+     
+}
+.bos{
+    position: fixed;
+    padding: 20px;
+    color: white;
+    padding-left: 570px;
+    font-size: 150%;
+    margin: 12px;
+    
+}
+.flex{
+    margin: 3px;
+    color: white;
+}
+.box{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
