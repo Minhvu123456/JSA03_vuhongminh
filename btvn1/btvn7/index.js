@@ -27,3 +27,13 @@ function foo(x,y,z) {
 	console.log( x, y, z );
 }
 
+
+
+const foo = (x,y,z) => {
+  return foo
+}
+
+
+const foo1 = (a,b) => {
+    
+}
